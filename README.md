@@ -1,8 +1,11 @@
 
 ## Simple Currency Converter
-## Used: https://exchangeratesapi.io/ API, React Hooks, and some CSS. 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Used:
+* https://exchangeratesapi.io/ API
+* React Hooks, 
+* some CSS. 
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
